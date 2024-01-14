@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">Student of Análise e Desenvolvimento de Sistemas from Diadema - SP</h3>
 
-- 🔭 I’m currently looking for a job, [look my portfolio](https://portfolio-gg7i.onrender.com/)
+- 🔭 I’m currently looking for a job, [please havea look at my portfolio](https://portfolio-gg7i.onrender.com/) (It may take some time to load the webpage)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Bootstrap**
+- 🌱 I’m currently learning **JavaScript, Python and Java**
 
 <h3 align="left">Connect with me:<br> <a href="https://instagram.com/nitgabriel/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/gabriel-machado-40a7ab247/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></h3>
 <p align="left">
