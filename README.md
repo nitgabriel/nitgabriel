@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">Student of Análise e Desenvolvimento de Sistemas from Diadema - SP</h3>
 
-- 🔭 I’m currently looking for a job, [please havea look at my portfolio](https://portfolio-gg7i.onrender.com/) (It may take some time to load the webpage)
+- 🔭 I’m currently looking for a job, [please have a look at my portfolio](https://portfolio-gg7i.onrender.com/) (It may take some time to load the webpage)
 
 - 🌱 I’m currently learning **JavaScript, Python and Java**
 
