@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Gabriel</h1>
 <h3 align="center">I'm an IT major university student from Brazil and also a Software Developer</h3>
 
--  I’m currently looking for an internship opportunity.
--  Currently studying this three Programming Languages: **Java + Spring, Python + Flask, and JavaScript**
+-  I’m currently working as a Software Developer.
+-  Currently working with: **Java, Spring, WebFlux**
 -  Also, if you want to contact me about studies or any position please look into my LinkedIn profile.
 
 <h3 align="left">Connect with me:<br> <a href="https://instagram.com/nitgabriel/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/gabriel-machado-40a7ab247/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></h3>
