@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Gabriel</h1>
-<h3 align="center">I'm an IT major university student from Brazil and also a Software Developer</h3>
+<h3 align="center">I'm a developer and a university student from Brazil</h3>
 
 -  I’m currently working as a Software Developer.
 -  Currently working with: **Java, Spring, WebFlux**
